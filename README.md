@@ -1,4 +1,6 @@
 # Queue-Network-prediction-using-GNNs
+This was originally done as a class project, and is currently being implemented in a publication likely submitted Summer 2025
+
 Queue Network Distribution Prediction using Graph Convolutional Neural Networks
 
 Abstract—Predicting queueing network behavior is a necessary 
@@ -16,3 +18,5 @@ browser with Google Colab, using the following link:
 https://colab.research.google.com/drive/1GFRM_BggG2EScZVozKPYO2qQ_LfEVm4Z?usp=sharing 
 Index Terms—Queueing Networks, Queue Behavior, Graph 
 Neural Networks, Gated Convolutional Graph Neural Network. 
+
+You can read the class paper here: https://drive.google.com/file/d/1slo1INCWdznH_TMP0MfV6C5BXMxtT5IE/view?usp=sharing
