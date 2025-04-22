@@ -13,7 +13,6 @@ Network on generalized queue networks to predict the distribution
 of the number of jobs for each node in a queueing network.  
 All code for this project is available publicly, and can be run in 
 browser with Google Colab, using the following link: 
-https://colab.research.google.com/drive/1GFRM_BggG2EScZVo
- zKPYO2qQ_LfEVm4Z?usp=sharing  
+https://colab.research.google.com/drive/1GFRM_BggG2EScZVozKPYO2qQ_LfEVm4Z?usp=sharing 
 Index Terms—Queueing Networks, Queue Behavior, Graph 
 Neural Networks, Gated Convolutional Graph Neural Network. 
